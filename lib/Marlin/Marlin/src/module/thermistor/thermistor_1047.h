@@ -25,14 +25,10 @@
 const short temptable_1047[][2] PROGMEM = {
   // only a few values are needed as the curve is very flat
   PtLine(  0, 1000, 4700),
-  PtLine( 50, 1194, 4700),
-  PtLine(100, 1385, 4700),
-  PtLine(150, 1573, 4700),
-  PtLine(200, 1758, 4700),
-  PtLine(250, 1941, 4700),
-  PtLine(300, 2120, 4700),
-  PtLine(350, 2297, 4700),
-  PtLine(400, 2470, 4700),
-  PtLine(450, 2641, 4700),
-  PtLine(500, 2809, 4700)
+  PtLine( 50, 1000, 4700),
+  PtLine(100, 1000, 4700),
+  PtLine(150, 1000, 4700),
+  PtLine(200, 1000, 4700),
+  PtLine(250, 1000, 4700),
+  PtLine(300, 1000, 4700)
 };
